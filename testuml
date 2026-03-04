@@ -1,7 +1,3 @@
-# Mein Programm zur Maximum-Suche
-
-Hier ist der Ablaufplan:
-
 ```mermaid
 flowchart TD
     Start([Start]) --> Init[Initialisiere Liste]
